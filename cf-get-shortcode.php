@@ -472,7 +472,7 @@ function cfgts_options() {
 		</div>
 		<form id="cfgts_settings" name="cfgts_settings" action="" method="post">
 			<div id="cfgts-get-items">
-				<?
+				<?php
 				if (!empty($options) && is_array($options)) {
 					foreach ($options as $key => $option) {
 						if (!empty($option) && is_array($option)) {
