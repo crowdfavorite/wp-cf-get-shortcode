@@ -1,0 +1,5 @@
+# CF Get to Shortcode Changelog
+
+## 1.0
+
+- Initial Release
