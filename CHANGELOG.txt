@@ -1,5 +1,9 @@
 # CF Get to Shortcode Changelog
 
+## 1.0.1
+
+- Remove PHP Shortag
+
 ## 1.0
 
 - Initial Release

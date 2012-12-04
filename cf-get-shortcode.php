@@ -3,7 +3,7 @@
 Plugin Name: CF Get to Shortcode
 Plugin URI: http://crowdfavorite.com
 Description: Provides admin level users with the ability to set shortcode variables based on GET variables from the URL
-Version: 1.0
+Version: 1.0.1
 Author: Crowd Favorite
 Author URI: http://crowdfavorite.com
 */
@@ -11,7 +11,7 @@ Author URI: http://crowdfavorite.com
 // ini_set('display_errors', '1'); ini_set('error_reporting', E_ALL);
 
 // Constants
-define('CFGTS_VERSION', '1.0');
+define('CFGTS_VERSION', '1.0.1');
 define('CFGTS_DIR', plugin_dir_path(__FILE__));
 define('CFGTS_DIR_URL', trailingslashit(plugins_url(basename(dirname(__FILE__)))));
 
